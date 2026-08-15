@@ -16,7 +16,8 @@ The objective is to transform raw customer data into actionable insights that ca
 
 The Power BI dashboard provides an interactive view of customer shopping behaviour and key business metrics.
 
-![Customer Behaviour Dashboard](images/dashboard.png)
+<img width="1340" height="732" alt="Screenshot 2026-08-16 042323" src="https://github.com/user-attachments/assets/564e8395-7d45-4a03-a624-e1b2affc01f5" />
+
 
 ### Dashboard Highlights
 
@@ -170,7 +171,8 @@ The cleaning process included:
 
 The following screenshot shows part of the Python/Jupyter Notebook workflow, including column preprocessing and the creation of an `age_group` feature.
 
-![Python Data Cleaning and Preprocessing](images/python-analysis.png)
+<img width="1197" height="872" alt="Screenshot 2026-08-16 042430" src="https://github.com/user-attachments/assets/0d538f34-0055-409a-b7e0-d32e8628e622" />
+
 
 ---
 
@@ -250,7 +252,8 @@ The SQL analysis addresses questions such as:
 
 ### SQL Analysis Preview
 
-![SQL Business Analysis](images/sql-analysis.png)
+<img width="1038" height="777" alt="Screenshot 2026-08-16 042555" src="https://github.com/user-attachments/assets/429fa633-90a1-4736-8510-4e7543fe13dd" />
+
 
 ---
 
